@@ -36,7 +36,7 @@ nest-asyncio
 nltk
 numpy
 packaging
-pandas
+pandas==2.0.3
 parso
 pickleshare
 Pillow
